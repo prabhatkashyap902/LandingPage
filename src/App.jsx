@@ -2,8 +2,8 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import moviePlay from './assets/images/movie_play2.png'
-import adultPlay from './assets/images/adult_play.png'
+import moviePlay from './assets/images/movie_play1.png'
+import adultPlay from './assets/images/adult_play1.png'
 
 
 function App() {
