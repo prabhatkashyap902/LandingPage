@@ -34,10 +34,10 @@ function App() {
       {/* <p style={{color: 'white', position:'absolute', top: '2%', left: '50%', transform: 'translate(-50%, -50%)', fontSize: '30px', backgroundColor: 'black', padding: '10px', borderRadius: '10px'}}>MovieClip.com</p> */}
       <p style={{fontSize: '20px'}}>पूरी मूवी देखने के लिए निचे वीडियो पे क्लिक करे 👇🏻</p>
       <p style={{fontSize: '20px'}}>(Puri Movie dekhne ke liye niche video pe click kare) 👇🏻</p>
-      <div><a href='https://ooloptou.net/4/7711738'><img src={moviePlay} style={{ width: '300px'}}/></a></div>
+      <div><a href='https://bit.ly/3y7r4HG'><img src={moviePlay} style={{ width: '300px'}}/></a></div>
       <p style={{fontSize: '20px'}}>18+ क्लिप देखने के लिए निचे वीडियो पे क्लिक करे </p>
       <p style={{fontSize: '20px'}}>(18+ clips dekhne ke liye niche video pe click kare 👇🏻) </p>
-      <div><a href='https://ooloptou.net/4/7711738'><img src={adultPlay} style={{ width: '300px'}}/></a></div>
+      <div><a href='https://bit.ly/3y7r4HG'><img src={adultPlay} style={{ width: '300px'}}/></a></div>
       {/* <div style={{position: 'absolute', bottom: '0', left: '50%', transform: 'translate(-50%, -50%)', width: '100%'}}>MovieClip.com copyright 2024</div> */}
     </>
   )
